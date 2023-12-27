@@ -20,21 +20,21 @@ These values are the defining parameters of a second-order linear recurrence rel
 
 ## Example
 Input:  
-S(1) 3  
-S(2) 1  
-c1 2  
-c2 3  
+>S(1) 3  
+>S(2) 1  
+>c1 2  
+>c2 3  
 
 Output:  
-r1 = 3.0  
-r2 = -1.0  
-p = 1.0  
-q = 2.0  
-S(n) = (1.0)(3.0)^(n-1) + (2.0)(-1.0)^(n-1)  
-S(1) = 3.0  
-S(2) = 1.0  
-...  
-S(10) = 19681.0  
+>r1 = 3.0  
+>r2 = -1.0  
+>p = 1.0  
+>q = 2.0  
+>S(n) = (1.0)(3.0)^(n-1) + (2.0)(-1.0)^(n-1)  
+>S(1) = 3.0  
+>S(2) = 1.0  
+>...  
+>S(10) = 19681.0  
 
 ## Usage
 To use this application:
