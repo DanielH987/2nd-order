@@ -19,7 +19,7 @@ c2 [coefficient]
 These values are the defining parameters of a second-order linear recurrence relation.
 
 ## Example
-Input:
+Input:  
 S(1) 3  
 S(2) 1  
 c1 2  
