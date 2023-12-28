@@ -1,7 +1,7 @@
 # Second-Order Linear Recurrence Solver
 
 ## Overview
-This Java application efficiently solves second-order linear recurrence relations. Leveraging the algorithm from Section 3.2 of a specified textbook, it computes the closed form of a given second-order recurrence relation and outputs the series' values for the first ten terms.
+This Java application efficiently solves second-order linear recurrence relations. It computes the closed form of a given second-order recurrence relation and outputs the series' values for the first ten terms. The program is based on the algorithm outlined in Section 3.2 of the [*Mathematical Structures for Computer Science*, 7th edition](https://www.amazon.com/Mathematical-Structures-Computer-Science-Gersting/dp/1429215100).
 
 ## Features
 - **Standard Input Reading**: Processes input directly from the standard input (System.in).
